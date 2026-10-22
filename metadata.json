@@ -1,0 +1,6 @@
+{
+  "name": "Parachute Home - Luxury Bedding, Bath & Home Essentials",
+  "description": "Shop premium luxury bedding, plush bath towels, eco-friendly mattresses, and handcrafted rugs inspired by relaxed modern living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

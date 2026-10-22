@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}
+
+body {
+  font-family: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  background-color: #FFFFFF;
+  color: #212121;
+}
+
+.font-serif {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+.font-sans {
+  font-family: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+}
+
+/* Custom smooth scrollbar & transitions */
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background-color: #E6DFD5;
+  color: #1A1A1A;
+}
