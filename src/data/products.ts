@@ -142,8 +142,8 @@ export const CUSTOMIZED_PRODUCTS: CustomizedProductItem[] = [
   { id: 'custom-cushions', title: 'Coordinated Cushion Covers', description: 'Create a matching bedding look with your preferred cushion designs.', imageUrl: '/Product%20Images/kushans/1.jpg', whatsappText: 'Assalam-o-Alaikum! I want to inquire about customized cushion covers.' }
 ];
 
-export const ABOUT_PAGE_DATA = { showroomImage: '/About%20Page/shop%20img.jpg', craftsmanshipImage: '/About%20Page/owner%20img.jpg' };
+export const ABOUT_PAGE_DATA = { showroomImage: '/About%20Page/shop%20img.jpeg', craftsmanshipImage: '/About%20Page/owner%20img.jpeg' };
 export const HOME_PAGE_BANNERS = {
   beddingBanner: '/Home%20Page/Banners/Bed.jpg', towelsBanner: '/Product%20Images/approns/2.jpg',
-  winterRazaiBanner: '/Home%20Page/Winter%20Heritage/winter%20heritage.jpg', showroomInspection: '/About%20Page/shop%20img.jpg'
+  winterRazaiBanner: '/Home%20Page/Winter%20Heritage/winter%20heritage.jpeg', showroomInspection: '/About%20Page/shop%20img.jpeg'
 };
