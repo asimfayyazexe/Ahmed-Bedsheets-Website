@@ -145,5 +145,5 @@ export const CUSTOMIZED_PRODUCTS: CustomizedProductItem[] = [
 export const ABOUT_PAGE_DATA = { showroomImage: '/About%20Page/shop%20img.jpeg', craftsmanshipImage: '/About%20Page/owner%20img.jpeg' };
 export const HOME_PAGE_BANNERS = {
   beddingBanner: '/Home%20Page/Banners/Bed.jpg', towelsBanner: '/Product%20Images/approns/2.jpg',
-  winterRazaiBanner: '/Home%20Page/Winter%20Heritage/winter%20heritage.jpeg', showroomInspection: '/About%20Page/shop%20img.jpeg'
+  winterRazaiBanner: '/Home%20Page/Winter%20Heritage/winter%20heritage.jpg', showroomInspection: '/About%20Page/shop%20img.jpeg'
 };
